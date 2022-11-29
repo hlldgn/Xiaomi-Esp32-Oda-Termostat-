@@ -4,7 +4,7 @@ Xiaomi Mi Temp-Esp32 Uzaktan kontrollü oda termostatı
 
 Gerekli Malzemeler
 
-1-Xiomi Mi Temp //https://www.hepsiburada.com/xiaomi-mijia-bluetooth-termometre-2-p-HBV00001AIHYY?magaza=Tek%20Sepeti
+1-Xiomi Mi Temp //https://www.hepsiburada.com/xiaomi-mijia-bluetooth-termometre-2-p-HBV00001AIHYY?magaza=Tek%20Sepeti 
 2- Esp32 Wroom 32U
 3- Nrf24
 4- 5v Röle
@@ -59,7 +59,7 @@ Firebasede bir database kuruyoruz.
   -temp
   -hum
   -bat
-Firebase Hesabımızda daatbase bağlantı adresimizi ve secret key i kodumuza yazıyoruz.
+Firebase Hesabımızda database bağlantı adresimizi ve secret key i kodumuza yazıyoruz.
   
 
 Arduino IDE yi bilgisayarımıza kurulu değilse kuruyoruz. Daha sonra kartlarımızı yüklememiz gerekiyor. Bunun için sizi bir siteye yönlendiriyorum.
