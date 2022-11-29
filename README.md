@@ -14,4 +14,8 @@ Gerekli Malzemeler
 
 https://github.com/atc1441/ATC_MiThermometer
 
-Üstte bıraktığım linkteki uygulamaları termostatımıza yaptıktan sonra 
+Üstte bıraktığım linkteki uygulamaları termostatımıza yaptıktan sonra sizlere esp32-nrf24 ve 5v röle bağlantı tablosunu paylaşıyorum.
+
+
+![Pinout-nRF24L01-PA-LNA-External-Antenna-Wireless-Transceiver-Module](https://user-images.githubusercontent.com/100942011/204525532-a223fe63-9a05-4757-aadc-066dcac1453f.png)
+![ESP32-DOIT-DEV-KIT-v1-pinout-mischianti-1024x501](https://user-images.githubusercontent.com/100942011/204525578-49b2ba06-03fd-4871-91b3-1672eb51a020.png)
