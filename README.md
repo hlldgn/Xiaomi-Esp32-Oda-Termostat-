@@ -39,3 +39,33 @@ MISO    -   d19
 VCC     -    5v
 GND     -    GND
 IN      -    d13
+
+Bir firebase hesabı açıyoruz.
+https://firebase.google.com/
+
+Firebasede bir database kuruyoruz.
+
+İki adet tablomuz var
+--AppModels
+--TermoModels
+
+--AppModels
+  -Id
+  -sens
+  -temp1
+  -bstat
+ --TermoModels
+  -Id
+  -temp
+  -hum
+  -bat
+Firebase Hesabımızda daatbase bağlantı adresimizi ve secret key i kodumuza yazıyoruz.
+  
+
+Arduino IDE yi bilgisayarımıza kurulu değilse kuruyoruz. Daha sonra kartlarımızı yüklememiz gerekiyor. Bunun için sizi bir siteye yönlendiriyorum.
+
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
+Kartlarımızı kuruyoruz ve kodumuzu esp32 devremize yüklüyoruz.
+
+
