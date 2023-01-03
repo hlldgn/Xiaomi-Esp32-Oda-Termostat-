@@ -69,3 +69,6 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
 Kartlarımızı kuruyoruz ve kodumuzu esp32 devremize yüklüyoruz.
 
 
+Telefon uygulaması için linke göz atın : https://github.com/hlldgn/Temperature-Xamarin-Android-App
+
+
