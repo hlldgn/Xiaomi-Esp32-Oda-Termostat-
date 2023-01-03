@@ -1,4 +1,4 @@
-# Xiaomi-Esp32-Oda-Termostat-
+# Xiaomi-Esp32-Oda-Termostat
 Xiaomi Mi Temp-Esp32 Uzaktan kontrollü oda termostatı
 
 
